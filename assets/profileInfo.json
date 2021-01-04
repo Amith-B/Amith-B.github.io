@@ -79,6 +79,10 @@
 		{
 			"name": "Boostrap",
 			"percentage": 70
+		},
+		{
+			"name": "SCSS",
+			"percentage": 40
 		}
 	]
 }
