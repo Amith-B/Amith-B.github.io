@@ -83,6 +83,14 @@
 		{
 			"name": "SCSS",
 			"percentage": 40
+		},
+		{
+			"name": "CSS",
+			"percentage": 65
+		},
+		{
+			"name": "HTML",
+			"percentage": 70
 		}
 	]
 }
