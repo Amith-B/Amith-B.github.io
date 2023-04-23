@@ -12,14 +12,11 @@
       "line1": "BTM Layout",
       "line2": "Bangalore, India"
     },
-    "city": "Bangalore",
-    "degree": "B.E",
-    "dept": "Computer Science",
-    "dob": "1997-04-15T18:30:00.000Z",
     "email": "",
     "links": [],
     "passout": "2019",
     "phone": "",
+    "details": [],
     "profileURL": "https://firebasestorage.googleapis.com/v0/b/amith-portfolio.appspot.com/o/profileNewFull.jpg?alt=media"
   },
   "knowledge": [],
