@@ -1,7 +1,8 @@
 {
   "customization": {
     "backgroundURLDark": "",
-    "backgroundURLLight": ""
+    "backgroundURLLight": "",
+    "enableBubble": false
   },
   "experience": [],
   "info": {
